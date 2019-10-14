@@ -1,0 +1,28 @@
+body {
+  text-align: justify;
+  line-height: 1.6;
+}
+
+code, pre {
+  font-family: monospace;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-align: left;
+}
+
+pre {
+  padding: 16px;
+  overflow: auto;
+  line-height: 1.45;
+  background-color: #f6f8fa;
+  border-radius: 3px;
+}
+
+code:not(.sourceCode) {
+  padding: .2em .4em;
+  margin: 0;
+  font-size: 90%;
+  background-color: rgba(27,31,35,.05);
+  border-radius: 3px;
+}
